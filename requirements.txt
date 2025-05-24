@@ -2,8 +2,8 @@ streamlit
 yfinance
 pandas
 numpy
-matplotlib
 plotly
 requests
+ta
 scikit-learn
-ta  # Technical Analysis library
+matplotlib
