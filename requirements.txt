@@ -4,6 +4,6 @@ pandas
 numpy
 plotly
 requests
-ta
+git+https://github.com/bukosabino/ta.git
 scikit-learn
 matplotlib
