@@ -6,5 +6,3 @@ plotly
 requests
 scikit-learn
 matplotlib
-git+https://github.com/bukosabino/ta.git
-# force rebuild
